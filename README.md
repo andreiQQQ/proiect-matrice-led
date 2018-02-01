@@ -7,3 +7,4 @@ La 10 puncte colectate jocul se termină cu victoria jucătorului.
 Dacă personajul e atins de inamic de 3 ori, jocul e pierdut.
 
 Video demonstrativ:
+https://drive.google.com/open?id=1Sz0wwnsE3qOJp5AEfOw9cveV-GSHNcLM
